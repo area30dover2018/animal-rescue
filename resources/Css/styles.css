@@ -1,0 +1,35 @@
+.body{
+  background-color:#green;
+}
+.page{
+  color: #white;
+  font-size:15px;
+  font-family:monospace;
+}
+.h1{
+   color: red;
+   font-size: 20px;
+  margin:0;
+}
+.h2{
+  font-size: 60px;
+color: ;
+margin: 0;
+}
+.the-lions {
+  background-color: #blue;
+text-align: left;
+}
+
+.div{
+color: darkblue;
+}
+.p{
+  font-family: monospace;
+  font-size: 50px;
+}
+.the-black-panther {
+  background-color: #000080;
+ font-size: 20px;
+font-family:monospace;
+}
